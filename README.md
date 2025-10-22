@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Avatar (replace with your generated Ghibli-style image link) -->
-  <img src="[https://raw.githubusercontent.com/USERNAME/USERNAME/main/profile-ghibli.png](https://github.com/Sukhraaj/Sukhraaj/blob/main/1720856911009.jpg)" alt="avatar" width="160" style="border-radius:50%; box-shadow: 0 8px 20px rgba(0,0,0,0.12)">
+  <img src="https://github.com/Sukhraaj/Sukhraaj/blob/main/1720856911009.jpg" alt="avatar" width="160" style="border-radius:50%; box-shadow: 0 8px 20px rgba(0,0,0,0.12)">
 
   <h1 style="margin-bottom: 6px">Hi — I'm <strong>Sukhraaj Singh</strong></h1>
   <p style="margin-top:0">A techy Sikh developer • Full-Stack (MERN-ready) • Building clean, useful web apps</p>
