@@ -6,7 +6,7 @@
   <img src="https://github.com/Sukhraaj/Sukhraaj/blob/main/1720856911009.jpg" alt="avatar" style="border-radius:50%; box-shadow: 0 8px 20px rgba(0,0,0,0.12)">
 
   <h1 style="margin-bottom: 6px">Hi — I'm <strong>Sukhraaj Singh</strong></h1>
-  <p style="margin-top:0">A techy Sikh developer • Full-Stack (MERN-ready) • Building clean, useful web apps</p>
+  <p style="margin-top:0">A techy developer • Full-Stack (MERN-ready) • Building clean, useful web apps</p>
 
   <!-- Quick badges -->
   <p>
@@ -70,17 +70,3 @@ I’m a friendly, focused web developer (B.Tech IT, graduating July 2025) who en
 - LinkedIn: https://www.linkedin.com/in/sukhraajsingh  
 - GitHub: https://github.com/Sukhraaj
 
----
-
-## 🎯 Tips to personalize
-1. Replace the avatar URL with your generated Ghibli image (host it in your profile repo as `profile-ghibli.png` or an external image link).  
-2. Update the GitHub stats `username=` value if you use a different github username.  
-3. Add project links and short demo GIFs under each project to make them pop.
-
----
-
-Thanks for reading — if you want, I can:
-- Customize the visuals (dark theme / Ghibli color palette), or  
-- Generate a small SVG header that matches the Ghibli vibe to place above your bio.
-
-(Grammar check: your sentence was clear — I corrected capitalization & spacing in the README text where needed.)
